@@ -1,4 +1,4 @@
-//¼öÇĞ
+//Â¼Ã¶Ã‡Ã
 //Silver 5
 #include <iostream>
 #include <vector>
