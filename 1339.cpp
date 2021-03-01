@@ -1,3 +1,5 @@
+//±×¸®µð
+//Gold 5
 #include <iostream>
 #include <string>
 #include <cmath>

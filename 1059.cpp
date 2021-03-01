@@ -1,3 +1,5 @@
+//수학 브루트 포스
+//Silver 5
 #include <iostream>
 #include <vector>
 #include <algorithm>
