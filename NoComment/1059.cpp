@@ -1,4 +1,4 @@
-//ผ๖วะ บ๊ท็ฦฎ ฦ๗ฝบ
+//ยผรถรร ยบรชยทรงรยฎ รรทยฝยบ
 //Silver 5
 #include <iostream>
 #include <vector>
